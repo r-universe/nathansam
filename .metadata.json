@@ -1,0 +1,10 @@
+[
+  {
+    "package": "datefixR",
+    "oncran": true
+  },
+  {
+    "package": "gameR",
+    "oncran": true
+  }
+]

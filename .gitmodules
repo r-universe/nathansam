@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datefixR"]
+	path = datefixR
+	url = https://github.com/nathansam/datefixr
+	shallow = true
+	registered = true
+[submodule "gameR"]
+	path = gameR
+	url = https://github.com/nathansam/gamer
+	shallow = true
+	registered = true

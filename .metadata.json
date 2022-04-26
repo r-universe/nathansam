@@ -6,5 +6,8 @@
   {
     "package": "gameR",
     "oncran": true
+  },
+  {
+    "package": "BASSLINE"
   }
 ]

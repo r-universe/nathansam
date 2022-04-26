@@ -1,15 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nathansam/universe
 	shallow = true
 	branch = HEAD
 [submodule "datefixR"]
 	path = datefixR
-	url = https://github.com/nathansam/datefixr
+	url = https://github.com/nathansam/datefixR
 	shallow = true
 	registered = true
 [submodule "gameR"]
 	path = gameR
-	url = https://github.com/nathansam/gamer
+	url = https://github.com/nathansam/gameR
+	shallow = true
+	registered = true
+[submodule "BASSLINE"]
+	path = BASSLINE
+	url = https://github.com/nathansam/BASSLINE
 	shallow = true
 	registered = true

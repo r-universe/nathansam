@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "datefixR"]
 	path = datefixR
-	url = https://github.com/nathansam/datefixR
+	url = https://github.com/ropensci/datefixR
 	shallow = true
 	registered = true
 [submodule "gameR"]

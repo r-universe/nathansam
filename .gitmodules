@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nathansam/universe
+	url = https://github.com/nathansam/nathansam.r-universe.dev
 	branch = HEAD
 [submodule "datefixR"]
 	path = datefixR

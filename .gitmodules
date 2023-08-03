@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/nathansam/nathansam.r-universe.dev
 	branch = HEAD
+[submodule "BASSLINE"]
+	path = BASSLINE
+	url = https://github.com/nathansam/BASSLINE
 [submodule "datefixR"]
 	path = datefixR
 	url = https://github.com/ropensci/datefixR
 [submodule "gameR"]
 	path = gameR
 	url = https://github.com/nathansam/gameR
-[submodule "BASSLINE"]
-	path = BASSLINE
-	url = https://github.com/nathansam/BASSLINE

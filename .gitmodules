@@ -11,3 +11,7 @@
 [submodule "gameR"]
 	path = gameR
 	url = https://github.com/nathansam/gameR
+[submodule "libdr"]
+	path = libdr
+	url = https://github.com/VallejosGroup/Lothian-IBDR
+	subdir = libdr
